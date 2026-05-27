@@ -1,0 +1,20 @@
+# Uploaded files
+/uploads/*
+!uploads/.gitkeep
+
+# Database config (contains credentials)
+config/database.php
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
+*.cache
+
+# IDE files
+.vscode/
+.idea/
+
+# PHP compiled files
+*.php~
+*.php.bak
