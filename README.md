@@ -1,8 +1,4 @@
 # construction-site-monitoring-system
-==============================================================
-   README — Construction Site Monitoring System
-   ENSIT — Computer Engineering Department — PFA1 2025-2026
-==============================================================
 
 Students    : Heeba Souaf, Rayhane Zarga, Malek Ben Amdouni
 Supervisor  : Mrs. Ines Bayoudh Saadi
